@@ -1,0 +1,11 @@
+# IntelliJ
+.idea/
+
+# Compiled files
+*.class
+
+# Build folders
+out/
+
+# Project files
+*.iml
