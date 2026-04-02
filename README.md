@@ -1,58 +1,81 @@
-# Backend Engineer Journey
-My Java learning journey
+# 🚀 Backend Engineer Journey
 
-# Day 1 - Java Basics
+## 📌 About This Repository
+This repository tracks my journey to becoming a Backend Engineer.
 
-## Topics Covered
-- Java program structure
-- main() method
-- Data types
-- Variables
-- Basic operations
+I am currently a Software Engineer with experience in PL/SQL, SQL, and IFS Cloud, and I am transitioning into Java Backend Development.
 
-## Programs Implemented
-1. HelloWorld.java - Hello World
-1. UserInfo.java - Prints user details
-2. Addition.java - Performs addition
-3. Calculator.java - Performs basic arithmetic operations
+---
 
-## Key Learnings
-- Understanding how Java program starts execution
-- Importance of main method
-- Basic syntax and structure
+## 🎯 Goals
+- Master Java and Spring Boot
+- Build scalable backend systems
+- Learn Microservices Architecture
+- Gain Cloud & DevOps knowledge
+- Integrate AI into backend systems
 
-## Interview Preparation
-- What is JVM, JDK, JRE
-- Why main method is static
-- Difference between primitive and non-primitive types
+---
 
-## Folder Structure
+## 🧭 Learning Roadmap
+
+### 🟢 Phase 1: Java Mastery
+- Core Java fundamentals
+- OOP concepts
+- Collections & Streams
+- Problem solving
+
+### 🟡 Phase 2: Spring Boot
+- REST APIs
+- Database integration
+- JPA/Hibernate
+
+### 🔵 Phase 3: Microservices
+- Service architecture
+- Apache Kafka
+- Redis caching
+
+### 🟣 Phase 4: Cloud & DevOps
+- Docker
+- AWS basics
+- CI/CD pipelines
+
+### 🟠 Phase 5: System Design
+- Scalability
+- High-level architecture
+
+### 🔴 Phase 6: AI Integration
+- LLM APIs
+- RAG systems
+- Vector databases
+
+---
+
+## 📁 Repository Structure
 backend-engineer-journey/
-	- phase-1-java/
-		- day-1/
-			- HelloWorld.java
-			- UserInfo.java
-			- Addition.java
-			- Calculator.java
-			
-# Day 2 - Operators & Conditional Statements
+├── phase-1-java/
+├── phase-2-springboot/
+├── phase-3-microservices/
+├── phase-4-cloud/
+├── phase-5-system-design/
+└── phase-6-ai/
 
-## Topics Covered
-- Arithmetic, Relational, Logical Operators
-- User Input using Scanner
-- if-else and if-else-if
 
-## Programs
-- EvenOdd.java
-- Voting.java
-- LargestNumber.java
+---
 
-## Key Learnings
-- Writing decision-making logic
-- Handling user input
-- Applying operators in real scenarios
+## 🔄 Git Workflow
+Following industry-standard workflow:
+- Feature branches
+- Pull Requests
+- Code reviews
 
-## Interview Questions
-- == vs equals()
-- Short-circuit evaluation
-- if-else vs switch
+---
+
+## 📅 Progress Tracking
+- Daily learning updates
+- Hands-on coding
+- Project-based learning
+
+---
+
+## 💼 Career Objective
+To become a Backend Engineer with expertise in Java, Microservices, Cloud, and AI integration.
